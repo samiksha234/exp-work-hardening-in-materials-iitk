@@ -61,12 +61,12 @@ To be created<br>
 <b>Analysis</b><br>
 <br>
 Plot of log[Rate] vs log[H2O2]:<br>
-<img src="images/fig17.png" width="600" height="300"><br>
+<img src="images/fig17.png" width="600" height="400"><br>
 Here, the order of the reaction with respect to H2O2 = 1 (nearest possible integer of 0.98)<br>
 <br>
 <b>Plot of log[Rate] vs log[KI]:</b><br>
 <br>
-<img src="images/fig18.png" width="600" height="300"><br>
+<img src="images/fig18.png" width="600" height="400"><br>
 <br>
 Here the order of the reaction with respect to KI = 1 (nearest possible integer of 1.02)<br>
 The rate law equation can be expressed as,<br>

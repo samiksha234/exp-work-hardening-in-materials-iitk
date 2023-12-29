@@ -40,6 +40,12 @@
 <br>
 <b>Table – 1</b><br>
 <br>
+<img src="images/fig14.png"><br>
+<br>
+<img src="images/fig15.png"><br>
+<br>
+<img src="images/fig16.png"><br>
+<br>
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>
 <b>Simulator</b><br>

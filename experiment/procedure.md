@@ -34,7 +34,7 @@
 <b>Procedure in laboratory</b><br>
 <br>
 <img src="images/fig89.jpg" width="600" height="300"><br>
-<b>See video!</b>
+<b>See video!</b><br>
 <br>
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>

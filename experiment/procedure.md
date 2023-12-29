@@ -19,7 +19,7 @@
 <br>
 <img src="images/fig6.jpg" width="500" height="400"><br>
 <br>
-<img src="images/fig7.jpg" width="500" height="400"><br>
+<img src="images/fig7.jpg" width="600" height="400"><br>
 <br>
 <img src="images/fig8.png"><br>
 <br>

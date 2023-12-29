@@ -9,7 +9,7 @@
 
 <b>Procedure in laboratory (diagram)</b><br>
 <br>
-<div style="text-align: center;">
+<div style="text-align: center">
    <img src="images/fig3.png" width="300" height="400">
 </div>
 

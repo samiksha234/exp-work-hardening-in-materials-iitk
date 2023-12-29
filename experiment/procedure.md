@@ -8,7 +8,7 @@
 5)	Glass Rod 
 
 <b>Procedure in laboratory (diagram)</b><br>
-<img src="images/fig3.png">
+<img src="images/fig3.png" width="100" height="100">
 <img src="images/fig44.png"><br>
 <br>
 <img src="images/fig5.png">

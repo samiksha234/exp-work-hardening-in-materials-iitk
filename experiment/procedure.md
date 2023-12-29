@@ -36,6 +36,8 @@
 <img src="images/fig89.jpg" width="600" height="300"><br>
 <b>See video!</b><br>
 <br>
+<b>Data and the analysis</b><br>
+<b>Table – 1</b><br>
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>
 <b>Simulator</b><br>

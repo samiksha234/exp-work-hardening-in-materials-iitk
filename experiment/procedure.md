@@ -51,27 +51,35 @@
 <img src="images/fig16.png"><br>
 <br>
 <b>Procedure in simulator of the experiment</b><br>
+<br>
 To be added based on the simulation<br>
+<br>
 <b>Simulator</b><br>
+<br>
 To be created<br>
 <br>
 <b>Analysis</b><br>
+<br>
 Plot of log[Rate] vs log[H2O2]:<br>
-<img src="images/fig17.png"><br>
+<img src="images/fig17.png" width="600" height="300"><br>
 Here, the order of the reaction with respect to H2O2 = 1 (nearest possible integer of 0.98)<br>
 <br>
 <b>Plot of log[Rate] vs log[KI]:</b><br>
-<img src="images/fig18.png"><br>
+<br>
+<img src="images/fig18.png" width="600" height="300"><br>
+<br>
 Here the order of the reaction with respect to KI = 1 (nearest possible integer of 1.02)<br>
 The rate law equation can be expressed as,<br>
+<br>
 
 Rate = k [I–] [H2O2]  , where ‘k’ is the rate constant.<br>
-
+<br>
 Now, Rate=-(∆[H_2 O_2])/∆t  ,        ∆[H_2 O_2]= 0.5× Moles of S2O32- consumed
                                                                = 0.5× 10 mL × 0.05 M × 0.001 mL-1
                                                                = 2.5 × 10-4 M <br>
+                                                               <br>
           Rate=-(2.5 × 〖10〗^(-4)  M)/(80 s) = 3.125 × 10-6 M.s-1 <br>
-
+<br>
            Rate constant, k = Rate/([I^-] [H_2 O_2]) = (3.125 × 〖10〗^(-6)  M.s^(-1)  )/(0.062 M×0.005 M) = 0.01 M-1 s-1
 
 

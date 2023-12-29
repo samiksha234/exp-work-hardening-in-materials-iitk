@@ -16,7 +16,7 @@
 <img src="images/fig5.png" width="400" height="500">
 <img src="images/fig44.png" width="80" height="120"><br>
 <br>
-<img src="images/fig6.jpg"><br>
+<img src="images/fig6.jpg" width="400" height="500"><br>
 <br>
 <img src="images/fig7.jpg"><br>
 <img src="images/fig8.png"><br>

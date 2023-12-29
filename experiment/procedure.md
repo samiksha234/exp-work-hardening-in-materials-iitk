@@ -37,7 +37,9 @@
 <b>See video!</b><br>
 <br>
 <b>Data and the analysis</b><br>
+<br>
 <b>Table – 1</b><br>
+<br>
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>
 <b>Simulator</b><br>

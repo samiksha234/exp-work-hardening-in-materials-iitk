@@ -11,7 +11,6 @@
 <br>
 <img src="images/fig3.png" width="300" height="400"><br>
 <br>
-<br>
 <img src="images/fig44.png"><br>
 <br>
 <img src="images/fig5.png">

@@ -24,7 +24,7 @@
 <img src="images/fig678.png"><br>
 <br>
 <img src="images/fig9.png"><br>
-<br>
+
 <img src="images/fig10.png"><br>
 <br>
 <br>

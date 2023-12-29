@@ -23,7 +23,7 @@
 <br>
 <img src="images/fig678.png"><br>
 <br>
-<img src="images/fig8.png" width="400" height="400"><br>
+<img src="images/fig8.png" width="300" height="300"><br>
 <img src="images/fig9.png"><br>
 
 <img src="images/fig10.png"><br>

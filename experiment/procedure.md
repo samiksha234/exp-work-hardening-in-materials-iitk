@@ -42,7 +42,11 @@
 <br>
 <img src="images/fig14.png"><br>
 <br>
+<b>Table – 2</b><br>
+<br>
 <img src="images/fig15.png"><br>
+<br>
+<b>Table – 3</b><br>
 <br>
 <img src="images/fig16.png"><br>
 <br>

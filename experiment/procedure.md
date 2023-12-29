@@ -33,8 +33,8 @@
 <img src="images/fig13.png"><br>
 <b>Procedure in laboratory</b><br>
 <br>
-<img src="images/fig89.jpg" width="600" height="300">
-See video!
+<img src="images/fig89.jpg" width="600" height="300"><br>
+<b>See video!</b>
 <br>
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>

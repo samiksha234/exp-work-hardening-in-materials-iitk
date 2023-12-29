@@ -21,7 +21,7 @@
 <br>
 <img src="images/fig7.jpg" width="600" height="400"><br>
 <br>
-<img src="images/fig8.png" width="300" height="100">><br>
+<img src="images/fig678.png" width="300" height="100"><br>
 <br>
 <img src="images/fig9.png"><br>
 <img src="images/fig10.png"><br>

@@ -33,7 +33,7 @@
 <img src="images/fig13.png"><br>
 <b>Procedure in laboratory</b><br>
 <br>
-<img src="images/fig89.jpg" width="300" height="100">
+<img src="images/fig89.jpg" width="600" height="300">
 See video!
 <br>
 <b>Procedure in simulator of the experiment</b><br>

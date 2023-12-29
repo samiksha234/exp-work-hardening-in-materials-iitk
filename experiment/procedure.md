@@ -30,23 +30,7 @@
 <img src="images/fig11.png"><br>
 <br>
 <img src="images/fig12.png" width="300" height="100"><br>
-<br>
-<br>
-<br>
-<b>Procedure in laboratory</b><br>
-<img src="images/fig13.png">See video!<br>
-<br>
-<br>
-<b>Data and the analysis</b><br>
-<b>Table – 1</b>
-<img src="images/fig14.png"><br>
-<br>
-<br>
-<img src="images/fig15.png"><br>
-<b>Table – 3</b><br>
-<img src="images/fig16.png"><br>
-<br>
-<br>
+
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>
 <b>Simulator</b><br>

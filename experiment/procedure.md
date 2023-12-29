@@ -12,7 +12,7 @@
 <img src="images/fig44.png"><br>
 <br>
 <img src="images/fig5.png">
-<img src="images/fig56.png"><br>
+<img src="images/fig44.png"><br>
 <br>
 <img src="images/fig6.jpg"><br>
 <br>

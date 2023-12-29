@@ -30,7 +30,7 @@
 <img src="images/fig11.png"><br>
 <br>
 <img src="images/fig12.png" width="300" height="100"><br>
-
+<img src="images/fig13.png">
 <b>Procedure in simulator of the experiment</b><br>
 To be added based on the simulation<br>
 <b>Simulator</b><br>

@@ -14,7 +14,7 @@
 <br>
 <br>
 <img src="images/fig5.png" width="400" height="500">
-<img src="images/fig44.png"><br>
+<img src="images/fig44.png" width="100" height="200"><br>
 <br>
 <img src="images/fig6.jpg"><br>
 <br>
